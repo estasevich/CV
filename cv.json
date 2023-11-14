@@ -1,0 +1,144 @@
+{
+    "basics": {
+        "name": "Alena Stasevich",
+        "position": "QA engineer",
+        "summary": "QA engineer with 7+ years experience in manual testing of multi-module security software (Desktop&Web apps)",
+        "email": "elena.stasevichqa@gmail.com",
+        "location": {
+            "city": "Minsk",
+            "country": "Belarus"
+        },
+        "profiles": [
+            {
+                "network": "linkedin",
+                "url": "https://www.linkedin.com/in/elena-stasevich-qa/"
+            },
+            {
+                "network": "github",
+                "url": "https://github.com/estasevich/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Minsk State Linguistic University",
+            "area": "Modern Foreign Languages",
+            "studyType": "Bachelor",
+            "years": "2008-2013"
+        }
+    ],
+    "technologies": [
+        "HTML / CSS",
+        "SQL",
+        "Azure Devops",
+        "Jira",
+        "Confluence",
+        "Squash",
+        "Microsoft TestManager",
+        "Postman",
+        "Gitlab",
+        "Devtools",
+        "VMware Workstation",
+        "Syslog"
+    ],
+    "soft skills": [
+        "Organized",
+        "Adaptable",
+        "Team player",
+        "Excellent communication",
+        "Attention to details",
+        "Problem solving",
+        "Effective time-management",
+        "Critical thinking"
+    ],
+    "certificates": [
+        {
+            "title": "Security analysis of web projects",
+            "awarder": "Stepik",
+            "year": "2023"
+        },
+        {
+            "title": "Introduction to Linux",
+            "awarder": "Stepik",
+            "year": "2023"
+        },
+        {
+            "title": "HTML&CSS basics",
+            "awarder": "Stepik",
+            "year": "2023"
+        },
+        {
+            "title": "Software Testing: Preparation for ISTQB Foundation certification",
+            "awarder": "Stepik",
+            "year": "2023"
+        },
+        {
+            "title": "Jira: managing tasks on electronic boards",
+            "awarder": "Stepik",
+            "year": "2023"
+        },
+        {
+            "title": "Software Testing: Postman for API testing",
+            "awarder": "Stepik",
+            "year": "2023"
+        }
+    ],
+    "expirience": [
+        {
+            "company": "EgoSecure GmbH by Matrix42",
+            "summary": "Complex endpoint data protection solution with such functions as Access Control, Application Control, Audit, Data Analysis, Encryption, Data Loss Prevention, Content Analysis&Filter, Secure Erase",
+            "position": "QA engineer",
+            "startDate": "2015-05-18",
+            "endDate": "2022-12-30",
+            "responsibilities": [
+                "Use of Azure Devops bug tracking tool for prioritizing and reporting defects",
+                "Bug hunting",
+                "Creating, editing and executing test cases",
+                "Cross-platform testing",
+                "Functional testing",
+                "Integration testing",
+                "Accessibility testing",
+                "Regression testing",
+                "Localization testing",
+                "Basic skills in SQL",
+                "Using debugging tools to discover defects reasons",
+                "Leading remote sessions with customers"
+            ]
+        },
+        {
+            "company": "Infowatch ARMA",
+            "summary": "Cybersecurity solution for critical infrastructure, that allows to implement a Defense in Depth security approach: protecting networks and endpoints in OT/IT production ecosystem, responding quickly to threats and complying with regulations.",
+            "position": "QA engineer",
+            "startDate": "2023-02-15",
+            "endDate": "till now",
+            "responsibilities": [
+                "Defect management",
+                "Requirements analysis and testing",
+                "Test cases development",
+                "Test results analysis and reporting",
+                "Accessibility testing",
+                "Component / integration testing",
+                "Cross-browser testing",
+                "Exploratory testing",
+                "Functional Testing",
+                "Regression testing",
+                "API testing using Postman",
+                "Performing demo sessions",
+                "Conducting interviews",
+                "Mentoring newcomers"
+            ]
+        }
+    ],
+    "recommendations": [
+        {
+            "reference": "I worked with Elena Stasevich as a support engineer for several years. I have always found her to be knowledgeable and helpful: excellent communication, clarification of any details and humorous to boot. Working with her has always been fruitful and - not to be underestimated - entertaining. Summa summarum: Elena top!",
+            "name": "Ruediger Waehling",
+            "position": "Support engineer at Matrix42"
+        },
+        {
+            "reference": "I worked with Elena for several years. She is a perfect team member, has a good knowledge in a security scope. Elena has good communication skills, also has an ability to self-learning and work in a deadline mode. She always tries to find a new way to test a product, goes into details.",
+            "name": "Ekaterina Suvorova",
+            "position": "QA engineer at EgoMind"
+        }
+    ]
+}
